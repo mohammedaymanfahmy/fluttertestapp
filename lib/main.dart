@@ -16,6 +16,8 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     //this is my change from user 1
     //this is my change from user 2 on branch 2
+    //this is my change from user 1 in new feat
+
     return GetMaterialApp(
       title: 'Flutter Demo',
       translations: MyTranslation(),
