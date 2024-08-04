@@ -15,6 +15,8 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     //this is my change from user 1
+    //this is my change from user 1 in main
+
     return GetMaterialApp(
       title: 'Flutter Demo',
       translations: MyTranslation(),
