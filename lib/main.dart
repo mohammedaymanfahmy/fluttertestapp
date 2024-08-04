@@ -17,6 +17,8 @@ class MyApp extends StatelessWidget {
     //this is my change from user 1
     //this is my change from user 2 on branch 2
     //this is my change from user 1 in new feat
+    //this is my change from user 1 in main
+    //this is my change from user 1 in main
 
     return GetMaterialApp(
       title: 'Flutter Demo',
